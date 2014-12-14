@@ -16,6 +16,7 @@ USAGE
 ==========================
 
 ::
+
   cmd> ruby word2pdf.rb word_file.doc [another_word_file.docx ...]
 
 
